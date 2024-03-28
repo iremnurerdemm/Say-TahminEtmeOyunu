@@ -1,1 +1,1 @@
-# Say-TahminEtmeOyunu
+# SayıTahminEtmeOyunu
